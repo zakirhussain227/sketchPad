@@ -1,1 +1,1 @@
-This project is about making a sketch pad with javascript/jquery. 
+This project is about making a sketch pad using javascript/jquery. 
